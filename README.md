@@ -42,5 +42,5 @@ For Question
 # [Telegram Channel ](https://t.me/ViSki)
 
 
-## Developer - Amir Bagheri(https://t.me/Khodeamirbagheri)
+## Developer - Amir Bagheri
 
