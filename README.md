@@ -1,5 +1,5 @@
 
-<p align="center"><a href="https://t.me/CRCOPROJECT"><img src="https://raw.githubusercontent.com/khodeamir/self-bot/master/CRCO/photos/end.png" width="300"src="">
+<p align="center"><a href="https://t.me/ViSki"><img src="https://raw.githubusercontent.com/khodeamir/self-bot/master/CRCO/photos/end.png" width="300"src="">
 </p>
 ---
 <div align="center">
@@ -12,7 +12,7 @@
 </div>
 
 ---
- # Self-BOT-X Beta Project 
+ # Self-BOT Amir Bagheri
 ---
 # installing
 
