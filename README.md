@@ -27,19 +27,21 @@
 
 ./ZPM reset -- Reset Self
 
+For Question
 
+@Vujdan
 ```
 
 
 
 
 
-# [Plugins ](https://t.me/crcoplugins)
+# [Contact Me ](https://t.me/Vujdan)
 
 
-# [Telegram Channel ](https://t.me/crcoproject)
+# [Telegram Channel ](https://t.me/ViSki)
 
 
-## CRCO - Amir Bagheri
+## Developer - Amir Bagheri
 
 
