@@ -17,6 +17,20 @@
 # installing
 
 ```
+mv Amir Self-Bot-X
+
+cd Self-Bot-X 
+
+chmod +x ./ZPM
+
+sudo apt-get install lua5.3
+
+sudo apt-get install build-essential libreadline-dev
+
+sudo apt-get install lua-sec
+
+sudo apt-get install lua-sec-dev
+
 ./ZPM install -- installing packages {1}
 
 ./ZPM config --Configure Self {2}
